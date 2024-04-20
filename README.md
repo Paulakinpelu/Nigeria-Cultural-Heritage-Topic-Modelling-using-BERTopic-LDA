@@ -1,5 +1,5 @@
 # Nigeria-Cultural-Heritage-Topic-Modelling-using-LDA
-***Paul Akinpelu (NLP Task 2 Assessment)***
+***© Paul Akinpelu (NLP Task 2 Assessment)***
 
 **Overview**
 This project aims to explore the cultural heritage of Nigeria through topic modelling techniques using BERTopic and Latent Dirichlet Allocation (LDA). The dataset used contains textual information about various aspects of Nigeria's cultural heritage.
@@ -37,5 +37,6 @@ Evaluation metrics such as coherence score (for LDA) are used to assess the qual
 Dependencies
 •	Python 3.x
 •	Libraries: scikit-learn, nltk, pandas, numpy, matplotlib, seaborn, gensim, bertopic
-By **Paul Akinpelu**
+
+**©** **Paul Akinpelu**
 
