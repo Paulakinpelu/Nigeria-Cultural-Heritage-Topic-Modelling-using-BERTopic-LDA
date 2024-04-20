@@ -1,4 +1,4 @@
-# Nigeria-Cultural-Heritage-Topic-Modelling-using-BERTopic-LDA
+# Nigeria-Cultural-Heritage-Topic-Modelling-using-LDA
 ***Paul Akinpelu (NLP Task 2 Assessment)***
 
 Overview
