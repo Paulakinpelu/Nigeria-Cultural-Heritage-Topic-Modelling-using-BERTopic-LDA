@@ -1,10 +1,10 @@
 # Nigeria-Cultural-Heritage-Topic-Modelling-using-LDA
 ***Paul Akinpelu (NLP Task 2 Assessment)***
 
-Overview
+**Overview**
 This project aims to explore the cultural heritage of Nigeria through topic modelling techniques using BERTopic and Latent Dirichlet Allocation (LDA). The dataset used contains textual information about various aspects of Nigeria's cultural heritage.
 
-Table of Contents
+**Table of Contents**
 1.	Introduction
 2.	Dataset
 3.	Usage
@@ -13,16 +13,19 @@ Table of Contents
 6.	Dependencies
 7.	License
    
-Introduction
+**Introduction**
 Nigeria is rich in cultural heritage, with diverse ethnic groups and traditions spread across the country. Understanding and preserving this cultural heritage is crucial for maintaining Nigeria's identity and promoting cultural exchange. This project utilizes topic modelling techniques to uncover latent topics within the textual data related to Nigeria's cultural heritage.
 
-Dataset
+**Dataset**
 The dataset consists of text documents containing information about various aspects of Nigeria's cultural heritage. It includes descriptions of traditions, folklore, historical events, rituals, and more. Each document represents a unique aspect of Nigeria's cultural heritage.
 
-Usage
+**Usage**
 **1.	Data Preprocessing:** Preprocess the text data by removing noise, special characters, and stopwords. Tokenization and lemmatization may also be applied to enhance data quality.
+
 **2.	Topic Modelling with LDA:** Employ Latent Dirichlet Allocation (LDA), a generative probabilistic model, to discover topics within the dataset.
+
 **3.	Evaluation:** Evaluate the performance of both BERTopic and LDA models using appropriate metrics such as silhouette score (BERTopic) and coherence score (LDA).
+
 **4.	Interpretation:** Interpret the discovered topics and gain insights into Nigeria's cultural heritage based on the model results.
 
 ***Results***
